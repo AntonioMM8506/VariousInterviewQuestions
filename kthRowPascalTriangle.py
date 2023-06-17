@@ -1,11 +1,13 @@
 def pascalTriangle(n):
     arr = []
     
+    #Calculate a factorial
     def fact(x):
         if(x==0):
             return 1
         return x*fact(x-1)
     
+    #Create the Array according to the level in the Pascal Triangle
     if(n==0):
         arr.append(0)
     else:
