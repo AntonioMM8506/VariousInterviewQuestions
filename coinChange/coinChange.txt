@@ -1,0 +1,1 @@
+Create a function in JavaScript that takes in a list of coins and a number to make change for. Example coinChange([5, 2, 10, 1], 17) => [10, 5, 2
