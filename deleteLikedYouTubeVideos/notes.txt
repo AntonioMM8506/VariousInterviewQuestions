@@ -1,0 +1,8 @@
+Create a script that deletes all of your liked videos
+
+1. Create a Maven Project
+2. in the "test" folder create a new class
+3. edit the pom.xml
+4. download the chromedrive.exe and import it to the resources/chromedriver folder
+5. in the resources/files folder add a csv with your credentials => <username@mail>,<password>
+4. adapt the provided code to your poject
